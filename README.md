@@ -25,13 +25,13 @@ border around text - brown
 
 #### Core Features
 
-* [ ] Website has **three** defined sections: main header, biography, and portfolio
-* [ ] Demonstrates minimal CSS styling of background colors, images, text, and positioning
+* [X] Website has **three** defined sections: main header, biography, and portfolio
+* [X] Demonstrates minimal CSS styling of background colors, images, text, and positioning
 * [ ] Incorporates website responsiveness with media queries with at least one breakpoint
-* [ ] **At least one** accessible feature (i.e color sensitive choices, `alt` text for images, etc.)
+* [X] **At least one** accessible feature (i.e color sensitive choices, `alt` text for images, etc.)
 
 #### Stretch Features
 
-* [ ] [Incorporate a navigation bar](https://www.w3schools.com/howto/howto_js_topnav.asp "Incorporate a navigation bar")
+* [X] [Incorporate a navigation bar](https://www.w3schools.com/howto/howto_js_topnav.asp "Incorporate a navigation bar")
 * [ ] [Add social media handles](https://medium.com/@imrobinkim/quick-and-easy-way-to-implement-a-social-media-icon-list-with-hover-effect-16ebfa1922e "Add social media handles")
 * [ ] Add additional content sections to your page
